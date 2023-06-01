@@ -10,5 +10,3 @@ Some basic training to learn **Git**
 4. **Git commit -m "commit_name"** : Create a new commit containing the current contents of the index and the given log message describing the changes
 5. **Git push** : send every local commits to the distant repo.
 6. **Git status** : git repo's status
-
-[^1]Still learning
