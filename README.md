@@ -11,4 +11,4 @@ Some basic training to learn **Git**
 5. **Git push** : send every local commits to the distant repo.
 6. **Git status** : git repo's status
 
-Still learning[^1]
+[^1]Still learning
